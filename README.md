@@ -1,4 +1,4 @@
-# Medical Bill Amount Extractor
+# Amount Extractor
 
 This repository provides a small FastAPI service that extracts monetary amounts from medical bill images. It performs OCR, normalizes numeric tokens, classifies each amount by context (total/paid/due), and returns a final structured JSON with provenance.
 
